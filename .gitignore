@@ -44,6 +44,8 @@ jspm_packages/
 # Typescript v1 declaration files
 # typings/
 
+azurelocallogger.js
+
 # Optional npm cache directory
 .npm
 
