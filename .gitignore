@@ -39,8 +39,10 @@ build/Release
 node_modules/
 jspm_packages/
 
+# the sample code from the tutorial does not ignore the typings
+# also leave the in the repo for now
 # Typescript v1 declaration files
-typings/
+# typings/
 
 # Optional npm cache directory
 .npm
