@@ -44,7 +44,10 @@ jspm_packages/
 # Typescript v1 declaration files
 # typings/
 
-azurelocallogger.js
+# configuration for local testing
+azureMobile.js
+# keep package-lock local for now
+package-lock.json
 
 # Optional npm cache directory
 .npm

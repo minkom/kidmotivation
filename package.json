@@ -3,16 +3,16 @@
     "node": "4.4",
     "npm": "3.8.6"
   },
-  "name": "azure-mobile-apps-quickstarts.backend.node.try-mobile-apps",
+  "name": "kidmotivation mobile app service",
   "version": "0.0.1",
-  "description": "Samples for Azure Mobile Apps",
-  "author": "Microsoft",
-  "repository": "Azure/azure-mobile-apps-quickstarts",
+  "description": "Service for app to get kids to help at home",
+  "author": "Minko Minkov",
+  "repository": "GitHub/kidmotivation",
   "license": "MIT",
   "dependencies": {
-    "azure-mobile-apps": "^3.0.0",
-    "express": "^4.13.0",
-    "swagger-ui": "^2.2.8"
+    "azure-mobile-apps": "^3.0.2",
+    "express": "^4.16.1",
+    "swagger-ui": "^2.2.10"
   },
   "devDependencies": {}
 }
