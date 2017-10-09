@@ -23,6 +23,7 @@ var mobileApp = azureMobileApps({
     swagger: true,
     // App will use MS_SqliteFilename or MS_TableConnectionString to choose the SQLite or SQL data provider
     data: {
+        provider: mssql,
         dynamicSchema: true
     }
 });
